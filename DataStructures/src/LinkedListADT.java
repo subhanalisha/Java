@@ -78,7 +78,7 @@ public class LinkedListADT{
 			//listADT.insertAtEnd(new LinkedList(i));
 		
 		
-		//test insert at middel
+		//test insert at middle
 		
 			for(int i=1;i<=10;i++)
 				listADT.insertAtEnd(new LinkedList(i));
